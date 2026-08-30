@@ -1,0 +1,7 @@
+# Snowflake Connection Test
+
+This repository contains SQL scripts and Streamlit workspace files synced directly with Snowflake.
+
+## Overview
+- `practice2/`: Streamlit app and configuration files
+- `vignette-*.sql`: SQL scripts and queries
